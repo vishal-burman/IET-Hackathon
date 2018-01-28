@@ -133,3 +133,12 @@ It contain features such as....
 
 ## About
 This section is a timeline-themed section which shows the different types of child abuse and how can we recognize them. It is informative section whose basic function is to educate the people.
+
+![screenshot 56](https://user-images.githubusercontent.com/19861874/35478060-2d8a9094-03f9-11e8-835d-9a6bd24ecfd2.png)
+
+## Our Amazing Team
+This section is devoted to the people who have worked hard to make this website. This section provides means to connect to them.
+
+![screenshot 57](https://user-images.githubusercontent.com/19861874/35478076-b52b581c-03f9-11e8-83cf-79613fe50924.png)
+
+
