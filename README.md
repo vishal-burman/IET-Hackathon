@@ -141,4 +141,9 @@ This section is devoted to the people who have worked hard to make this website.
 
 ![screenshot 57](https://user-images.githubusercontent.com/19861874/35478076-b52b581c-03f9-11e8-83cf-79613fe50924.png)
 
+## Contact
+This section is given so that you can give us your valuable criticisms and feedbacks regarding as to how we can improve our website as well as our services.
 
+![screenshot 58](https://user-images.githubusercontent.com/19861874/35478092-136e1126-03fa-11e8-8676-663be8291530.png)
+
+# Thank You!!
