@@ -82,9 +82,11 @@ This section holds our Uniqueness.
 
 It contain features such as....
 
-1. **Identity Match**
+1. **Identity Match**-->In this section the user has the option to upload a video. Our team analyses the video and by face-recognition algorithms we detect the abuser's face and add him/her to our database. So the next time when someone uploads a video, if that person is already in our database, we will take the matter with the concerned organization and if needed taken up with higher authorities.
 
+![screenshot 45](https://user-images.githubusercontent.com/19861874/35477714-a6c26950-03ef-11e8-8ed4-363dc9959c59.png)
 
+2. **Video Report**-->In this section the user reports the captured video of his abuser
                               
 
 
