@@ -1,4 +1,4 @@
-# IET-Hackathon 2018
+# Skillenza-Hackathon 2018
 ## Introduction
 During the course of this Hackathon we have developed a working website which combats and helps the victims of "CHILD ABUSE"
 The following presentation walks you through the key aspects and features of our website:
