@@ -86,7 +86,48 @@ It contain features such as....
 
 ![screenshot 45](https://user-images.githubusercontent.com/19861874/35477714-a6c26950-03ef-11e8-8ed4-363dc9959c59.png)
 
-2. **Video Report**-->In this section the user reports the captured video of his abuser
-                              
+2. **Video Report**-->In this section the user reports the captured video of his abuser and our team of experts analyses the video and using face-recognition algorithms captures the face of the abuser and adds him/her in our database. 
+
+![screenshot 46](https://user-images.githubusercontent.com/19861874/35477770-1047fe5c-03f1-11e8-84d3-756d39333d50.png)
+
+-->By clicking on the link it takes you to out Modal Linking Form
+
+![screenshot 47](https://user-images.githubusercontent.com/19861874/35477794-c576ed7e-03f1-11e8-82d2-5514fd8f1b62.png)
+
+-->Clicking on the Modal Link Form takes you up to our login portal
+
+![screenshot 48](https://user-images.githubusercontent.com/19861874/35477800-0b6d3392-03f2-11e8-8067-b947cc51e6de.png)
+
+-->It conists of your contact form and below that it consists of a link which allows us to upload videos or audios.
+
+![screenshot 49](https://user-images.githubusercontent.com/19861874/35477841-50983d44-03f3-11e8-8aba-e23f1df9ccff.png)
+
+
+3. **Audio Report**--> In this section the user has the option to report and submit the audio recordings of his abuser. The audio-sample is analysed by our experts and using machine-learning algorithms we can detect the user's sound level and picth and therfore add him to our database and take necessary steps.
+
+![screenshot 50](https://user-images.githubusercontent.com/19861874/35477901-89b09350-03f4-11e8-8412-6b0605799737.png)
+
+
+4.**Child-care Services**-->In this section the user or victim can search about the nearest institutes and healthcare facilities. The victim can also consult our experts and required psychologists. The discussion between them is strictly confidential.
+
+![screenshot 51](https://user-images.githubusercontent.com/19861874/35477947-e55552bc-03f5-11e8-8753-d7fb74dd3f2d.png)
+
+-->Clicking on the link redirects it to our childcare portal and the user can get the required treatment as per his needs.
+
+![screenshot 52](https://user-images.githubusercontent.com/19861874/35477962-530770d8-03f6-11e8-928e-f724dd679004.png)
+
+
+5. **HelpLine Numbers**-->In this section we have updated the required phone numbers of the concerned authorities and then the users as well as victims can use them as per their benefit.
+
+![screenshot 53](https://user-images.githubusercontent.com/19861874/35477975-c0ad3230-03f6-11e8-9d43-140a30e403dd.png)
+
+
+6. **Our Partners**-->This section introduces our partner-organizations and the work they do and the state in which they operate. Please feel free to contact them using their helpline numbers.
+
+![screenshot 54](https://user-images.githubusercontent.com/19861874/35477987-4a54601c-03f7-11e8-9ba5-f63bacfd80de.png)
+
+-->Clicking on the link redirects you to the page of our member organizations and their respective websites and their respective phone numbers.
+
+![screenshot 55](https://user-images.githubusercontent.com/19861874/35477991-9f100c00-03f7-11e8-9b74-d4c347acd603.png)
 
 
