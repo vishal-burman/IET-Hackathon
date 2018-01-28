@@ -1,0 +1,138 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.col-25 {
+  <font size="6">
+  </font>
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#button{
+    height: 50px;
+    width: 170px;
+}
+
+#popup-text{
+    visibility: hidden;
+}
+.show{
+  visibility: visible;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
+</style>
+</head>
+<body>
+<body background="w3s.png">
+<h2>To being Trusted is a greater than being Loved </h2>
+</body>
+
+
+
+    <div class="row">
+      <div class="col-25">
+        <label for="fname"> Name</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="fname" name="name" placeholder="Your name..">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="lname">Phone Number</label>
+      </div>
+      <div class="col-75">
+        <input type="text" id="lname" name="lastname" placeholder="Phone number">
+        </div>
+    </div>
+    <div class="row">
+      <div class="col-25">
+        <label for="tom">Type of Media...</label>
+      </div>
+      <div class="col-75">
+        <select id="country" name="country">
+          <option value="choose">Choose</option>
+          <option value="videofile">Video file</option>
+          <option value="audiofile">Audio File</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="popup-text">Your information has been saved</div>
+
+      <input type="file" name="pic"  accept="file_extension|audio/*|video/*|image/*|media_type">
+      <button type="button" id="button" onclick="myFunction()">Submit</button>
+
+
+</div>
+
+</body>
+
+<script type="text/javascript">
+      function myFunction(){
+          alert("Submitted!!");
+      }
+</script>
+
+</html>
